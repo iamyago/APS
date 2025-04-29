@@ -42,4 +42,4 @@ Cada opção apresenta uma explicação didática e um link para aprofundamento.
 ### Passos:
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/iamyago/APS.git
+   git clone https://github.com/iamyago/APS.git
