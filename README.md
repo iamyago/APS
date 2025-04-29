@@ -1,4 +1,4 @@
-# 🌸 APS: Conscientização sobre Temas de Gênero em Java
+# 🌸 APS: Conscientização sobre Igualdade de Gênero e Luta das Mulheres na Sociedade
 
 Este é um projeto simples em Java desenvolvido como parte de uma Atividade Prática Supervisionada (APS). O objetivo principal é promover a conscientização sobre temas relacionados à igualdade de gênero por meio de um menu interativo no terminal.
 
